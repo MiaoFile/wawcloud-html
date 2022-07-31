@@ -617,10 +617,10 @@
                                 <div class="col-lg-3 col-md-4 col-12 mt-4 pt-2 mt-lg-0 pt-lg-0">
                                     <h5 class="text-light footer-head font-weight-normal mb-0">我们的产品</h5>
                                     <ul class="list-unstyled footer-list mt-4">
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=6" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QVH 虚拟主机</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=17" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QVM 服务器</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=13" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QMC MC主机</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=15" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QDN CDN加速</a></li>
+                                        <li><a href="https://control.qaqcloud.com/cart?fid=6" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WVH 虚拟主机</a></li>
+                                        <li><a href="https://control.qaqcloud.com/cart?fid=17" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WVM 服务器</a></li>
+                                        <li><a href="https://control.qaqcloud.com/cart?fid=13" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WMC MC主机</a></li>
+                                        <li><a href="https://control.qaqcloud.com/cart?fid=15" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WDN CDN加速</a></li>
                                     </ul>
                                 </div>
                                 

@@ -3,26 +3,27 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>QAQ Cloud -生活在异次元的虚拟主机商家</title>
+        <title>WaW Cloud -生活在异次元的虚拟主机商家</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="QAQ Cloud -生活在异次元的虚拟主机商家" />
-        <meta name="keywords" content="QAQ Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
+        <meta name="description" content="WaW Cloud -生活在异次元的虚拟主机商家" />
+        <meta name="keywords" content="WaW Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
         <meta content="Shreethemes" name="author" />
         <!-- favicon -->
         <link rel="shortcut icon" href="https://m1.miaomc.cn/uploads/20220110_caba3875e45e2.png">
         <!-- Bootstrap -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <!-- Magnific Popup -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/magnific-popup.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/css/magnific-popup.css" rel="stylesheet" type="text/css" />
         <!-- Slider -->               
-        <link rel="stylesheet" href="https://qaqcloud.static.shh.miaofile.com/css/owl.carousel.min.css"/> 
-        <link rel="stylesheet" href="https://qaqcloud.static.shh.miaofile.com/css/owl.theme.default.min.css"/> 
+        <link rel="stylesheet" href="/assets/css/owl.carousel.min.css"/> 
+        <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css"/> 
         <!-- Icons -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css">
         <!-- Css -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/colors/default.css" rel="stylesheet" id="color-opt">
+        <link href="/assets/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
+        <link href="/assets/css/colors/default.css" rel="stylesheet" id="color-opt">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/css/mdui.min.css" integrity="sha384-cLRrMq39HOZdvE0j6yBojO4+1PrHfB7a9l5qLcmRm/fiWXYY+CndJPmyu5FV/9Tw" crossorigin="anonymous"/>
     </head>
 
     <body>
@@ -33,7 +34,7 @@
                 <!-- Logo container-->
                 <div>
                     <a class="logo" href="index.html">
-                        <img src="https://img.acgfun.cc/2022/01/09/012c9e8d2f296.svg" class="l-dark" height="16" alt="">
+                        <img src="https://m1.miaomc.cn/uploads/20220109_609ed56bff769.svg" class="l-dark" height="16" alt="">
                         <img src="https://m1.miaomc.cn/uploads/20220109_ab1d7277dc33b.svg" class="l-light" height="16" alt="">
                     </a>
                 </div>     
@@ -53,33 +54,42 @@
                                 <span></span>
                             </div>
                         </a>
-                        <!-- End mobile menu toggle-->
+                        <!-- End mobile menu toggle-->  
                     </div>
                 </div>
         
                 <div id="navigation">
-                    <!-- Navigation Menu-->   
+                    <!-- Navigation Menu-->
                     <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="/" class="text-dark h6 mr-3 login" >主页</a>
+                            <a href="/zh-cn" class="text-dark h6 mr-3 login" >主页</a>
                         </li>
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >QVM服务器</a>
+                            <a href="https://control.qaqcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >WVM服务器</a>
                         </ul>
                         </li>
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >虚拟主机</a>
+                            <a href="https://control.qaqcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >WVH虚拟主机</a>
                         </ul>
                         </li>
 
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="/contact.html" class="text-dark h6 mr-3 login" >联系我们</a>
+                            <a href="/zh-cn/contact" class="text-dark h6 mr-3 login" >联系我们</a>
                         </li>
+                        </ul>
+                        <ul class="navigation-menu">
+                            <li class="buy-button">
+                            <a class="mdui-ripple dropdown-toggle h6 mr-3 login" data-toggle="dropdown">Language / 语言</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/zh-cn" class="btn1 btn1-primary">简体中文</a></li>
+                                <li><a href="/eu-us" class="btn2 btn2-primary">English</a></li>
+                        </li>
+                        </ul>
                     </ul><!--end navigation menu-->
                 </div><!--end navigation-->
             </div><!--end container-->

@@ -3,26 +3,27 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>QAQ Cloud -生活在异次元的虚拟主机商家</title>
+        <title>WaW Cloud -生活在异次元的虚拟主机商家</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="QAQ Cloud -生活在异次元的虚拟主机商家" />
-        <meta name="keywords" content="QAQ Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
+        <meta name="description" content="WaW Cloud -生活在异次元的虚拟主机商家" />
+        <meta name="keywords" content="WaW Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
         <meta content="Shreethemes" name="author" />
         <!-- favicon -->
         <link rel="shortcut icon" href="https://m1.miaomc.cn/uploads/20220110_caba3875e45e2.png">
         <!-- Bootstrap -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <!-- Magnific Popup -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/magnific-popup.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/css/magnific-popup.css" rel="stylesheet" type="text/css" />
         <!-- Slider -->               
-        <link rel="stylesheet" href="https://qaqcloud.static.shh.miaofile.com/css/owl.carousel.min.css"/> 
-        <link rel="stylesheet" href="https://qaqcloud.static.shh.miaofile.com/css/owl.theme.default.min.css"/> 
+        <link rel="stylesheet" href="/assets/css/owl.carousel.min.css"/> 
+        <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css"/> 
         <!-- Icons -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css">
         <!-- Css -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/colors/default.css" rel="stylesheet" id="color-opt">
+        <link href="/assets/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
+        <link href="/assets/css/colors/default.css" rel="stylesheet" id="color-opt">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/css/mdui.min.css" integrity="sha384-cLRrMq39HOZdvE0j6yBojO4+1PrHfB7a9l5qLcmRm/fiWXYY+CndJPmyu5FV/9Tw" crossorigin="anonymous"/>
     </head>
 
     <body>
@@ -33,7 +34,7 @@
                 <!-- Logo container-->
                 <div>
                     <a class="logo" href="index.html">
-                        <img src="https://img.acgfun.cc/2022/01/09/012c9e8d2f296.svg" class="l-dark" height="16" alt="">
+                        <img src="https://m1.miaomc.cn/uploads/20220109_609ed56bff769.svg" class="l-dark" height="16" alt="">
                         <img src="https://m1.miaomc.cn/uploads/20220109_ab1d7277dc33b.svg" class="l-light" height="16" alt="">
                     </a>
                 </div>     
@@ -53,33 +54,42 @@
                                 <span></span>
                             </div>
                         </a>
-                        <!-- End mobile menu toggle-->
+                        <!-- End mobile menu toggle-->  
                     </div>
                 </div>
         
                 <div id="navigation">
-                    <!-- Navigation Menu-->   
+                    <!-- Navigation Menu-->
                     <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="/" class="text-dark h6 mr-3 login" >主页</a>
+                            <a href="/zh-cn" class="text-dark h6 mr-3 login" >主页</a>
                         </li>
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >QVM服务器</a>
+                            <a href="https://control.qaqcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >WVM服务器</a>
                         </ul>
                         </li>
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >虚拟主机</a>
+                            <a href="https://control.qaqcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >WVH虚拟主机</a>
                         </ul>
                         </li>
 
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="/contact.html" class="text-dark h6 mr-3 login" >联系我们</a>
+                            <a href="/zh-cn/contact" class="text-dark h6 mr-3 login" >联系我们</a>
                         </li>
+                        </ul>
+                        <ul class="navigation-menu">
+                            <li class="buy-button">
+                            <a class="mdui-ripple dropdown-toggle h6 mr-3 login" data-toggle="dropdown">Language / 语言</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/zh-cn" class="btn1 btn1-primary">简体中文</a></li>
+                                <li><a href="/eu-us" class="btn2 btn2-primary">English</a></li>
+                        </li>
+                        </ul>
                     </ul><!--end navigation menu-->
                 </div><!--end navigation-->
             </div><!--end container-->
@@ -94,12 +104,12 @@
                 <div class="row mt-5 justify-content-center">
                     <div class="col-12">
                         <div class="title-heading text-center">
-                            <h4 class="heading text-white mb-3">服务条款</h4>
-                            <p class="text-white-50 para-desc mx-auto mb-0">在这里，你可以了解我们的服务条款</p>
+                            <h4 class="heading text-white mb-3">F&Q</h4>
+                            <p class="text-white-50 para-desc mx-auto mb-0">在这里，你可以进行F&Q</p>
                             <nav aria-label="breadcrumb" class="d-inline-block mt-4">
                                 <ul class="breadcrumb mb-0">
                                     <li class="breadcrumb-item"><a href="index.html">QAQ Cloud</a></li>
-                                    <li class="btn btn-primary" aria-current="page">服务条款</li>
+                                    <li class="btn btn-primary" aria-current="page">F&Q</li>
                                 </ul>
                             </nav>
                         </div>
@@ -123,51 +133,12 @@
                     <div class="col-lg-4 col-md-5 col-12 d-none d-md-block">
                         <div class="rounded-pill shadow p-4 component-wrapper">
                             <ul class="list-unstyled mb-0">
-                                <li class="mb-4"><a href="#intro" class="mouse-down h6 text-dark">服务合约</a></li>
-                                <li class="mb-4"><a href="#info" class="mouse-down h6 text-dark">用户遵守规则</a></li>
-                                <li class="mb-4"><a href="#control" class="mouse-down h6 text-dark">资源使用公约</a></li>
-                                <li class="mb-4"><a href="#activity" class="mouse-down h6 text-dark">退款保障和拒绝退款方案</a></li>
                                 <li><a href="#question" class="mouse-down h6 text-dark">其他问题</a></li>
                             </ul>
                         </div>
                     </div><!--end col-->
 
                     <div class="col-lg-8 col-md-7 col-12">
-                        <div class="section-title" id="intro">
-                            <h4><i class="mdi mdi-18px mdi-arrow-right"></i> 服务合约</h4>
-                            <p class="text-muted mt-4">购买产品表示同意且能遵守此条约</p>
-                            <p class="text-muted">您及您所代表的公司（以下统称为“您”）的经营信息必须遵守《中华人民共和国电信条例》、《互联网信息服务管理办法》、《中华人民共和国计算机信息网络国际联网管理暂行规定》、《计算机信息网络国际联网安全保护管理办法》、《中华人民共和国公司法》和国家其他有关法律、法规、规章及其他规范性文件，不得从事任何违法经营活动，负责自身的网络信息安全并有能力承担入网后的信息安全责任。！</p>
-                        </div>
-
-                        <div class="section-title mt-4 pt-2" id="info">
-                            <h4><i class="mdi mdi-18px mdi-arrow-right"></i> 用户遵守规则</h4>
-                            <p class="text-muted mt-4">禁止上传/运行中国大陆、法律严禁的内容、包括但不限于：任何性质的政治、赌博、犯罪、宣传淫秽、色情、盗版、侵权、欺诈（含比特链、磁力链）、彩票（含时时彩、六合彩）、包括使用反向代理展示网站。</p>
-                            <p class="text-muted">禁止使用V-P-N代理用途。</p>
-                            <p class="text-muted ">禁止使用机器包括但不限于：对外/内发包、ARli攻击/劫持、扫描弱口令、运行DHCli服务，的恶意穷举和干扰其它服务器的行为。</p>
-                            <p class="text-muted ">禁止使用机器包括但不限于：发送垃圾邮件、垃圾信息（留言、帖子）、散播木马/病毒（包括引用其它服务器的恶意文件）。</p>
-                            <p class="text-muted">禁止运行包括但不限于：挖流量矿、各类虚拟币、视频挂机、集群计算、流量互刷等，对CPU、带宽、硬盘资源消耗极大的软件。</p>
-                            <p class="text-muted">禁止在非防御型机器上运行包括单不限于：容易受DDoS流量攻击的网站或程序。</p>
-                            <p class="text-muted">禁止各种非正当的机器测试行为（包括但不限于：求攻击、求压力测试等）。</p>
-                        </div>
-
-                        <div class="section-title mt-4 pt-2" id="control">
-                            <h4><i class="mdi mdi-18px mdi-arrow-right"></i> 资源使用公约</h4>
-                            <p class="text-muted mt-4"> 不得长时间占用大量带宽，使用影响网络性能的软件（包括但不限于：PT下载、BT下载、迅雷、电驴、挖矿等）。</p>
-                            <p class="text-muted">不得长时间占用大量磁盘I/O，使用影响服务器稳定性的软件（包括但不限于：磁盘DD测试、磁盘扫描和杀毒软件等）。</p>
-                            <p class="text-muted ">非独立服务器的带宽为峰值带宽（非独享带宽），请不要长期占满，否则将被限速峰值带宽的30%-50%。</p>
-                            <p class="text-muted ">VPS谢绝长时间、大流量纯代理性质连接。（包括服务商节点、多人代理、反向代理）等。</p>
-                        </div>
-
-                        <div class="section-title mt-4 pt-2" id="activity">
-                            <h4><i class="mdi mdi-18px mdi-arrow-right"></i> 退款保障和拒绝退款方案</h4>
-                            <p class="text-muted mt-4">购买VPS主机后，若开错线路，1天内退回客户中心帐号则无需手续费和扣除使用时间。</p>
-                            <p class="text-muted ">15天内，按照支付的月付价格退一半（提现扣除5元+退款额10% 手续费）。</p>
-                            <p class="text-muted ">一个月内仅支持退款一个订单。</p>
-                            <p class="text-muted ">有以下情形的，不退款：恶意试用VPS 或 违反【用户义务】相关规定。</p>
-                            <p class="text-muted ">拒绝退款：包括但不限于：机房投诉、滥用等。</p>
-                            <p class="text-muted ">拒绝活动退款：使用优惠码或季付活动以及充值返利活动。</p>
-                        </div>
-
                         <div class="section-title mt-4 pt-2" id="question">
                             <h4><i class="mdi mdi-18px mdi-arrow-right"></i> 其他问题</h4>
                             <p class="text-muted mt-4">一些问题可以快速的从下面找到</p>
@@ -250,6 +221,7 @@
             </div><!--end container-->
         </section><!--end section-->
         <!-- Start -->
+
 
         <!-- Footer Start -->
         <footer class="footer bg-footer">
