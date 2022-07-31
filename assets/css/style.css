@@ -3424,3 +3424,55 @@ footer.footer.footer-line {
   border-top: 1px solid #555d65;
 }
 /*# sourceMappingURL=style.css.map */
+label {
+	display: inline-block;
+	font-weight: normal;
+	margin-bottom: 5px;
+	max-width: 100%;
+}
+p {
+	color: #ffff;
+	line-height: 26px;
+	margin: 0 0 15px;
+	text-transform: none;
+	font-weight: 400;
+}
+b, strong {
+	font-weight: 900;
+}
+.btn1 {
+  padding: 12px 27px;
+  outline: none;
+  text-decoration: none;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.btn1-primary {
+  background-color: #5368f1 ;
+  border: 2px solid #5368f1 ;
+  color: #ffffff !important;
+  -webkit-box-shadow: 0 3px 7px rgba(83, 104, 241, 0.5);
+          box-shadow: 0 5px 7px rgba(83, 104, 241, 0.5);
+}
+.btn2 {
+  padding: 12px 32px;
+  outline: none;
+  text-decoration: none;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.btn2-primary {
+  background-color: #5368f1 ;
+  border: 2px solid #5368f1 ;
+  color: #ffffff !important;
+  -webkit-box-shadow: 0 3px 7px rgba(83, 104, 241, 0.5);
+          box-shadow: 0 5px 7px rgba(83, 104, 241, 0.5);
+}

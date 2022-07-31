@@ -3,26 +3,27 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>QAQ Cloud -生活在异次元的虚拟主机商家</title>
+        <title>WaW Cloud -生活在异次元的虚拟主机商家</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="QAQ Cloud -生活在异次元的虚拟主机商家" />
-        <meta name="keywords" content="QAQ Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
+        <meta name="description" content="WaW Cloud -生活在异次元的虚拟主机商家" />
+        <meta name="keywords" content="WaW Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
         <meta content="Shreethemes" name="author" />
         <!-- favicon -->
         <link rel="shortcut icon" href="https://m1.miaomc.cn/uploads/20220110_caba3875e45e2.png">
         <!-- Bootstrap -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <!-- Magnific Popup -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/magnific-popup.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/css/magnific-popup.css" rel="stylesheet" type="text/css" />
         <!-- Slider -->               
-        <link rel="stylesheet" href="https://qaqcloud.static.shh.miaofile.com/css/owl.carousel.min.css"/> 
-        <link rel="stylesheet" href="https://qaqcloud.static.shh.miaofile.com/css/owl.theme.default.min.css"/> 
+        <link rel="stylesheet" href="/assets/css/owl.carousel.min.css"/> 
+        <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css"/> 
         <!-- Icons -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+        <link href="/assets/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css">
         <!-- Css -->
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
-        <link href="https://qaqcloud.static.shh.miaofile.com/css/colors/default.css" rel="stylesheet" id="color-opt">
+        <link href="/assets/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
+        <link href="/assets/css/colors/default.css" rel="stylesheet" id="color-opt">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/css/mdui.min.css" integrity="sha384-cLRrMq39HOZdvE0j6yBojO4+1PrHfB7a9l5qLcmRm/fiWXYY+CndJPmyu5FV/9Tw" crossorigin="anonymous"/>
     </head>
 
     <body>
@@ -53,7 +54,7 @@
                                 <span></span>
                             </div>
                         </a>
-                        <!-- End mobile menu toggle-->
+                        <!-- End mobile menu toggle-->  
                     </div>
                 </div>
         
@@ -61,25 +62,34 @@
                     <!-- Navigation Menu-->
                     <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="/" class="text-dark h6 mr-3 login" >主页</a>
+                            <a href="/zh-cn" class="text-dark h6 mr-3 login" >主页</a>
                         </li>
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >QVM服务器</a>
+                            <a href="https://control.qaqcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >WVM服务器</a>
                         </ul>
                         </li>
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >虚拟主机</a>
+                            <a href="https://control.qaqcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >WVH虚拟主机</a>
                         </ul>
                         </li>
 
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="/contact.html" class="text-dark h6 mr-3 login" >联系我们</a>
+                            <a href="/zh-cn/contact" class="text-dark h6 mr-3 login" >联系我们</a>
                         </li>
+                        </ul>
+                        <ul class="navigation-menu">
+                            <li class="buy-button">
+                            <a class="mdui-ripple dropdown-toggle h6 mr-3 login" data-toggle="dropdown">Language / 语言</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/zh-cn" class="btn1 btn1-primary">简体中文</a></li>
+                                <li><a href="/eu-us" class="btn2 btn2-primary">English</a></li>
+                        </li>
+                        </ul>
                     </ul><!--end navigation menu-->
                 </div><!--end navigation-->
             </div><!--end container-->
@@ -93,8 +103,8 @@
                 <div class="row mt-5 justify-content-center">
                     <div class="col-12">
                         <div class="title-heading text-center">
-                            <h4 class="heading text-white mb-3">QAQ Cloud -生活在异次元的虚拟主机商家</h4>
-                            <p class="text-white-50 para-desc mx-auto mb-0">QAQ Cloud，一年的用心耕耘，香港，中国，电信直属机房提供高速线路，只为提高更好的服务</p>
+                            <h4 class="heading text-white mb-3">WaW Cloud -生活在异次元的虚拟主机商家</h4>
+                            <p class="text-white-50 para-desc mx-auto mb-0">WaW Cloud，一年的用心耕耘，香港，美国，中国直属机房提供高速线路，只为提高更好的服务</p>
                         
                             <div class="mt-4">
                                 <a href="https://control.qaqcloud.com/register" class="btn btn-primary mx-1">立刻注册</a>
@@ -123,10 +133,10 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/shared.svg" alt="">
+                                <img src="/assets/images/icons/shared.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
-                                <h5 class="mb-3"><a href="hosting-shared.html" class="title text-dark">QVH 虚拟主机</a></h5>
+                                <h5 class="mb-3"><a href="hosting-shared.html" class="title text-dark">WVH 虚拟主机</a></h5>
                                 <p class="text-muted mb-3">我们提供无与伦比的质量基于云的企业托管、服务器和存储解决方案。性能强大，简单易用。</p>
                             </div>
                         </div>
@@ -135,10 +145,10 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/vps.svg" alt="">
+                                <img src="/assets/images/icons/vps.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
-                                <h5 class="mb-3"><a href="hosting-vps.html" class="title text-dark">QVM 虚拟机</a></h5>
+                                <h5 class="mb-3"><a href="hosting-vps.html" class="title text-dark">WVM 虚拟机</a></h5>
                                 <p class="text-muted mb-3">欢迎使用超低成本，高速，高稳定的云服务器，KVM全虚拟化技术。支持在线监控，弹性变配，免费备份功能。</p>
                             </div>
                         </div>
@@ -147,10 +157,10 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/dedicated.svg" alt="">
+                                <img src="/assets/images/icons/dedicated.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
-                                <h5 class="mb-3"><a href="hosting-dedicated.html" class="title text-dark">QDS专用服务器</a></h5>
+                                <h5 class="mb-3"><a href="hosting-dedicated.html" class="title text-dark">WDS专用服务器</a></h5>
                                 <p class="text-muted mb-3">我们所有的专用服务器都带有DDoS，并且是市场上价格最优惠的服务器。我们努力为您提供物有所值的最佳服务器。</p>
                             </div>
                         </div>
@@ -159,11 +169,11 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/cloud.svg" alt="">
+                                <img src="/assets/images/icons/cloud.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
-                                <h5 class="mb-3"><a href="hosting-cloud.html" class="title text-dark">QMC 我的世界主机</a></h5>
-                                <p class="text-muted mb-3">QMN 我的世界主机使用Docker程序,让个个主机互不影响,互不干扰,可随时根据用户需求,增加功能。</p>
+                                <h5 class="mb-3"><a href="hosting-cloud.html" class="title text-dark">WMC 我的世界主机</a></h5>
+                                <p class="text-muted mb-3">WMN 我的世界主机使用Docker程序,让个个主机互不影响,互不干扰,可随时根据用户需求,增加功能。</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -171,10 +181,10 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/reseller.svg" alt="">
+                                <img src="/assets/images/icons/reseller.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
-                                <h5 class="mb-3"><a href="hosting-reseller.html" class="title text-dark">QDN CDN加速</a></h5>
+                                <h5 class="mb-3"><a href="hosting-reseller.html" class="title text-dark">WDN CDN加速</a></h5>
                                 <p class="text-muted mb-3">全球多服务器节点,带来更好的体验和流畅的访问速度,高稳定率使得我们不会轻易掉线。</p>
                             </div>
                         </div>
@@ -183,10 +193,10 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/domain.svg" alt="">
+                                <img src="/assets/images/icons/domain.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
-                                <h5 class="mb-3"><a href="hosting-domain.html" class="title text-dark">QSL SSL证书服务</a></h5>
+                                <h5 class="mb-3"><a href="hosting-domain.html" class="title text-dark">WSL SSL证书服务</a></h5>
                                 <p class="text-muted mb-3">免费的SSL证书将帮助您在搭建的网站更加方便,SSL加密也使得您的网站变得安全,并且不会报红。</p>
                             </div>
                         </div>
@@ -223,7 +233,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="mr-lg-5">
-                            <img src="https://qaqcloud.static.shh.miaofile.com/images/features/1.svg" class="img-fluid" alt="">
+                            <img src="/assets/images/features/1.png" class="img-fluid" alt="">
                         </div>
                     </div><!--end col-->
 
@@ -276,7 +286,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6 col-12 order-1 order-md-2">
                         <div class="ml-lg-5">
-                            <img src="https://qaqcloud.static.shh.miaofile.com/images/features/2.png" class="img-fluid" alt="">
+                            <img src="/assets/images/features/2.png" class="img-fluid" alt="">
                         </div>
                     </div><!--end col-->
 
@@ -421,7 +431,7 @@
                             <div class="card border-0 text-center client-bar m-2">
                                 <div class="card-body content rounded-pill  px-4 py-5 shadow position-relative">
                                     <i class="mdi mdi-format-quote-open icons text-primary"></i>
-                                    <p class="text-muted mb-0">QAQ cloud是我见过的最可靠、最友好、超快速和最便宜的 VPS 提供商！ 工单会很快得到答复，甚至还有一个很棒的QQ群</p>
+                                    <p class="text-muted mb-0">WaW Cloud是我见过的最可靠、最友好、超快速和最便宜的 VPS 提供商！ 工单会很快得到答复，甚至还有一个很棒的QQ群</p>
                                 </div>
                                 <img src="https://m1.miaomc.cn/uploads/20220205_ce6857117bc3a.jpg" class="avatar avatar-md-md mt-4 testi-img rounded-circle shadow mx-auto" alt="">
                                 <h6 class="text-primary mt-2 mb-0">筱笙月</h6>
@@ -430,7 +440,7 @@
                             <div class="card border-0 text-center client-bar m-2">
                                 <div class="card-body content rounded-pill  px-4 py-5 shadow position-relative">
                                     <i class="mdi mdi-format-quote-open icons text-primary"></i>
-                                    <p class="text-muted mb-0">QAQ Cloud是我最喜欢用于我的网站的主机，他们在服务器中投入的工作量以确保它们始终以卓越的效率运行，使得可以长期稳定的运行，其团队投入到他们的产品中的时间也很大</p>
+                                    <p class="text-muted mb-0">WaW Cloud是我最喜欢用于我的网站的主机，他们在服务器中投入的工作量以确保它们始终以卓越的效率运行，使得可以长期稳定的运行，其团队投入到他们的产品中的时间也很大</p>
                                 </div>
                                 <img src="https://m1.miaomc.cn/uploads/20220205_f9f27d915a09b.jpg" class="avatar avatar-md-md mt-4 testi-img rounded-circle shadow mx-auto" alt="">
                                 <h6 class="text-primary mt-2 mb-0">有杀气的小萝莉</h6>
@@ -448,7 +458,7 @@
                             <div class="card border-0 text-center client-bar m-2">
                                 <div class="card-body content rounded-pill  px-4 py-5 shadow position-relative">
                                     <i class="mdi mdi-format-quote-open icons text-primary"></i>
-                                    <p class="text-muted mb-0">在向他人提供网络托管时，我经常需要一个低规格的服务器进行短期或长期用于辅助目的。我发现QAQ Cloud可以提供运行良好的容器，并在少数需要时提供友好高效的支持。我特别看重的一件事是大量的模板，因为它们有助于在内存有限的情况下设置环境。</p>
+                                    <p class="text-muted mb-0">在向他人提供网络托管时，我经常需要一个低规格的服务器进行短期或长期用于辅助目的。我发现WaW Cloud可以提供运行良好的容器，并在少数需要时提供友好高效的支持。我特别看重的一件事是大量的模板，因为它们有助于在内存有限的情况下设置环境。</p>
                                 </div>
                                 <img src="https://m1.miaomc.cn/uploads/20220205_76217040caab2.jpg" class="avatar avatar-md-md mt-4 testi-img rounded-circle shadow mx-auto" alt="">
                                 <h6 class="text-primary mt-2 mb-0">暮涛</h6>
@@ -466,7 +476,7 @@
                             <div class="card border-0 text-center client-bar m-2">
                                 <div class="card-body content rounded-pill  px-4 py-5 shadow position-relative">
                                     <i class="mdi mdi-format-quote-open icons text-primary"></i>
-                                    <p class="text-muted mb-0">QAQ Cloud = 安心无忧</p>
+                                    <p class="text-muted mb-0">WaW Cloud = 安心无忧</p>
                                 </div>
                                 <img src="https://m1.miaomc.cn/uploads/20220105_6f67e4cb25224.jpg" class="avatar avatar-md-md mt-4 testi-img rounded-circle shadow mx-auto" alt="">
                                 <h6 class="text-primary mt-2 mb-0">果子狸</h6>
@@ -490,8 +500,8 @@
                         <div class="media">
                             <i data-feather="help-circle" class="fea icon-ex-md text-primary mr-2 mt-1"></i>
                             <div class="media-body">
-                                <h5 class="mt-0">咱们的 <span class="text-primary">QAQ Cloud</span> 是怎么运行的</h5>
-                                <p class="answer text-muted mb-0">QAQ Cloud基于KVM,Docker等技术来进行虚拟化服务,并且团队对于Docker有着非常熟悉使用技术</p>
+                                <h5 class="mt-0">咱们的 <span class="text-primary">WaW Cloud</span> 是怎么运行的</h5>
+                                <p class="answer text-muted mb-0">WaW Cloud基于KVM,Docker等技术来进行虚拟化服务,并且团队对于Docker有着非常熟悉使用技术</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -511,7 +521,7 @@
                             <i data-feather="help-circle" class="fea icon-ex-md text-primary mr-2 mt-1"></i>
                             <div class="media-body">
                                 <h5 class="mt-0"> 如何进行无限制的数据输入？</h5>
-                                <p class="answer text-muted mb-0">购买不限制流量的服务器或者虚拟主机套餐,并且不违反QAQ Cloud的相关用户协议和隐私政策即可享受不限流量的体验</p>
+                                <p class="answer text-muted mb-0">购买不限制流量的服务器或者虚拟主机套餐,并且不违反WaW Cloud的相关用户协议和隐私政策即可享受不限流量的体验</p>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -520,7 +530,7 @@
                         <div class="media">
                             <i data-feather="help-circle" class="fea icon-ex-md text-primary mr-2 mt-1"></i>
                             <div class="media-body">
-                                <h5 class="mt-0">我的<span class="text-primary">QAQ Cloud</span> 账户是否安全</h5>
+                                <h5 class="mt-0">我的<span class="text-primary">WaW Cloud</span> 账户是否安全</h5>
                                 <p class="answer text-muted mb-0">网站全程使用SSL加密,并且保证不会泄露用户的相关数据等,对服务器进行了加密保护等措施,来保证您的账号达到最安全的情况</p>
                             </div>
                         </div>
@@ -652,7 +662,7 @@
                 <div class="row text-center">
                     <div class="col-sm-6 col-md-7">
                         <div class="text-sm-left">
-                            <p class="mb-0 text-foot">© 2021-2022 QAQ Cloud. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://www.roundcloud.cn/" target="_blank" class="text-reset">安徽圆云科技有限公司</a>.</p>
+                            <p class="mb-0 text-foot">© 2021-2022 WaW Cloud. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://www.tcbwork.com/" target="_blank" class="text-reset">TCB Work's Cloud 运营部</a>.</p>
                         </div>
                     </div><!--end col-->
 
@@ -742,20 +752,20 @@
         <!-- Back to top -->
         
         <!-- javascript -->
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/jquery.min.js"></script>
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/bootstrap.bundle.min.js"></script>
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/jquery.easing.min.js"></script>
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/scrollspy.min.js"></script>
+        <script src="/assets/js/jquery.min.js"></script>
+        <script src="/assets/js/bootstrap.bundle.min.js"></script>
+        <script src="/assets/js/jquery.easing.min.js"></script>
+        <script src="/assets/js/scrollspy.min.js"></script>
         <!-- Magnific Popup -->
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/jquery.magnific-popup.min.js"></script>
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/magnific.init.js"></script>
+        <script src="/assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="/assets/js/magnific.init.js"></script>
         <!-- SLIDER -->
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/owl.carousel.min.js"></script>
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/owl.init.js"></script>
+        <script src="/assets/js/owl.carousel.min.js"></script>
+        <script src="/assets/js/owl.init.js"></script>
         <!-- Icons -->
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/feather.min.js"></script>
+        <script src="/assets/js/feather.min.js"></script>
         <!-- Main Js -->
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/app.js"></script>
+        <script src="/assets/js/app.js"></script>
         
     </body>
 
