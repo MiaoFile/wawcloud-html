@@ -9,7 +9,7 @@
         <meta name="keywords" content="WaW Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
         <meta content="Shreethemes" name="author" />
         <!-- favicon -->
-        <link rel="shortcut icon" href="https://m1.miaomc.cn/uploads/20220110_caba3875e45e2.png">
+        <link rel="shortcut icon" href="/assets/images/wawcloud_icon.svg">
         <!-- Bootstrap -->
         <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <!-- Magnific Popup -->
@@ -34,8 +34,8 @@
                 <!-- Logo container-->
                 <div>
                     <a class="logo" href="index.html">
-                        <img src="https://m1.miaomc.cn/uploads/20220109_609ed56bff769.svg" class="l-dark" height="16" alt="">
-                        <img src="https://m1.miaomc.cn/uploads/20220109_ab1d7277dc33b.svg" class="l-light" height="16" alt="">
+                        <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b4039df.png" class="l-dark" height="16" alt="">
+                        <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b403ad3.png" class="l-light" height="16" alt="">
                     </a>
                 </div>     
 
@@ -605,7 +605,7 @@
                     <div class="row mt-5">
                         <div class="col-lg-4 col-md-12">
                             <a class="logo-footer h4 mouse-down text-light" href="#home">
-                                <img src="https://m1.miaomc.cn/uploads/20220109_ab1d7277dc33b.svg" height="16" alt="">
+                                <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b403ad3.png" height="16" alt="">
                             </a>
                             <p class="mt-4 text-foot">在我们完全冗余,并且稳定的 <br> 高性能云平台上部署您的服务基础架构，<br>并从其高可靠性、安全性和企业功能集中受益。
                             </p>
