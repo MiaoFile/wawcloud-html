@@ -9,20 +9,20 @@
         <meta name="keywords" content="WaW Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
         <meta content="Shreethemes" name="author" />
         <!-- favicon -->
-        <link rel="shortcut icon" href="/assets/images/wawcloud_icon.svg">
+        <link rel="shortcut icon" href="https://qaqcloud.static.shh.miaofile.com/images/wawcloud_icon.svg">
         <!-- Bootstrap -->
-        <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="https://qaqcloud.static.shh.miaofile.com/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <!-- Magnific Popup -->
-        <link href="/assets/css/magnific-popup.css" rel="stylesheet" type="text/css" />
+        <link href="https://qaqcloud.static.shh.miaofile.com/css/magnific-popup.css" rel="stylesheet" type="text/css" />
         <!-- Slider -->               
-        <link rel="stylesheet" href="/assets/css/owl.carousel.min.css"/> 
-        <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css"/> 
+        <link rel="stylesheet" href="https://qaqcloud.static.shh.miaofile.com/css/owl.carousel.min.css"/> 
+        <link rel="stylesheet" href="https://qaqcloud.static.shh.miaofile.com/css/owl.theme.default.min.css"/> 
         <!-- Icons -->
-        <link href="/assets/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+        <link href="https://qaqcloud.static.shh.miaofile.com/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css">
         <!-- Css -->
-        <link href="/assets/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
-        <link href="/assets/css/colors/default.css" rel="stylesheet" id="color-opt">
+        <link href="https://qaqcloud.static.shh.miaofile.com/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
+        <link href="https://qaqcloud.static.shh.miaofile.com/css/colors/default.css" rel="stylesheet" id="color-opt">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/css/mdui.min.css" integrity="sha384-cLRrMq39HOZdvE0j6yBojO4+1PrHfB7a9l5qLcmRm/fiWXYY+CndJPmyu5FV/9Tw" crossorigin="anonymous"/>
     </head>
 
@@ -133,7 +133,7 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="/assets/images/icons/shared.svg" alt="">
+                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/shared.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
                                 <h5 class="mb-3"><a href="hosting-shared.html" class="title text-dark">WVH 虚拟主机</a></h5>
@@ -145,7 +145,7 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="/assets/images/icons/vps.svg" alt="">
+                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/vps.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
                                 <h5 class="mb-3"><a href="hosting-vps.html" class="title text-dark">WVM 虚拟机</a></h5>
@@ -157,7 +157,7 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="/assets/images/icons/dedicated.svg" alt="">
+                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/dedicated.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
                                 <h5 class="mb-3"><a href="hosting-dedicated.html" class="title text-dark">WDS专用服务器</a></h5>
@@ -169,7 +169,7 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="/assets/images/icons/cloud.svg" alt="">
+                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/cloud.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
                                 <h5 class="mb-3"><a href="hosting-cloud.html" class="title text-dark">WMC 我的世界主机</a></h5>
@@ -181,7 +181,7 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="/assets/images/icons/reseller.svg" alt="">
+                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/reseller.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
                                 <h5 class="mb-3"><a href="hosting-reseller.html" class="title text-dark">WDN CDN加速</a></h5>
@@ -193,7 +193,7 @@
                     <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2">
                         <div class="card services p-4 rounded-pill border-0">
                             <div class="icon text-center mb-4">
-                                <img src="/assets/images/icons/domain.svg" alt="">
+                                <img src="https://qaqcloud.static.shh.miaofile.com/images/icons/domain.svg" alt="">
                             </div>
                             <div class="card-body p-0 content">
                                 <h5 class="mb-3"><a href="hosting-domain.html" class="title text-dark">WSL SSL证书服务</a></h5>
@@ -233,7 +233,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="mr-lg-5">
-                            <img src="/assets/images/features/1.png" class="img-fluid" alt="">
+                            <img src="https://qaqcloud.static.shh.miaofile.com/images/features/1.png" class="img-fluid" alt="">
                         </div>
                     </div><!--end col-->
 
@@ -286,7 +286,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6 col-12 order-1 order-md-2">
                         <div class="ml-lg-5">
-                            <img src="/assets/images/features/2.png" class="img-fluid" alt="">
+                            <img src="https://qaqcloud.static.shh.miaofile.com/images/features/2.png" class="img-fluid" alt="">
                         </div>
                     </div><!--end col-->
 
@@ -752,20 +752,20 @@
         <!-- Back to top -->
         
         <!-- javascript -->
-        <script src="/assets/js/jquery.min.js"></script>
-        <script src="/assets/js/bootstrap.bundle.min.js"></script>
-        <script src="/assets/js/jquery.easing.min.js"></script>
-        <script src="/assets/js/scrollspy.min.js"></script>
+        <script src="https://qaqcloud.static.shh.miaofile.com/js/jquery.min.js"></script>
+        <script src="https://qaqcloud.static.shh.miaofile.com/js/bootstrap.bundle.min.js"></script>
+        <script src="https://qaqcloud.static.shh.miaofile.com/js/jquery.easing.min.js"></script>
+        <script src="https://qaqcloud.static.shh.miaofile.com/js/scrollspy.min.js"></script>
         <!-- Magnific Popup -->
-        <script src="/assets/js/jquery.magnific-popup.min.js"></script>
-        <script src="/assets/js/magnific.init.js"></script>
+        <script src="https://qaqcloud.static.shh.miaofile.com/js/jquery.magnific-popup.min.js"></script>
+        <script src="https://qaqcloud.static.shh.miaofile.com/js/magnific.init.js"></script>
         <!-- SLIDER -->
-        <script src="/assets/js/owl.carousel.min.js"></script>
-        <script src="/assets/js/owl.init.js"></script>
+        <script src="https://qaqcloud.static.shh.miaofile.com/js/owl.carousel.min.js"></script>
+        <script src="https://qaqcloud.static.shh.miaofile.com/js/owl.init.js"></script>
         <!-- Icons -->
-        <script src="/assets/js/feather.min.js"></script>
+        <script src="https://qaqcloud.static.shh.miaofile.com/js/feather.min.js"></script>
         <!-- Main Js -->
-        <script src="/assets/js/app.js"></script>
+        <script src="https://qaqcloud.static.shh.miaofile.com/js/app.js"></script>
         
     </body>
 
