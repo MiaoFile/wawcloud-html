@@ -40,8 +40,8 @@
                 </div>     
 
                 <div class="buy-button">
-                    <a href="https://control.qaqcloud.com/login" class="text-dark h6 mr-3 login" >登陆</a>
-                    <a href="https://control.qaqcloud.com/register" target="_blank" class="btn btn-primary">立刻注册</a>
+                    <a href="https://home.wawcloud.com/login" class="text-dark h6 mr-3 login" >登陆</a>
+                    <a href="https://home.wawcloud.com/register" target="_blank" class="btn btn-primary">立刻注册</a>
                 </div><!--end login button-->
                 <!-- End Logo container-->
                 <div class="menu-extras">
@@ -67,13 +67,13 @@
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >WVM服务器</a>
+                            <a href="https://home.wawcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >WVM服务器</a>
                         </ul>
                         </li>
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >WVH虚拟主机</a>
+                            <a href="https://home.wawcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >WVH虚拟主机</a>
                         </ul>
                         </li>
 
@@ -107,8 +107,8 @@
                             <p class="text-white-50 para-desc mx-auto mb-0">WaW Cloud，一年的用心耕耘，香港，美国，中国直属机房提供高速线路，只为提高更好的服务</p>
                         
                             <div class="mt-4">
-                                <a href="https://control.qaqcloud.com/register" class="btn btn-primary mx-1">立刻注册</a>
-                                <a href="https://control.qaqcloud.com/login" class="btn btn-light mx-1">立即登陆</a>
+                                <a href="https://home.wawcloud.com/register" class="btn btn-primary mx-1">立刻注册</a>
+                                <a href="https://home.wawcloud.com/login" class="btn btn-light mx-1">立即登陆</a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -342,7 +342,7 @@
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">拥有</span> PHP插件</li>
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">美国国际CN2</span> 线路</li>
                                 </ul>
-                                <a href="https://control.qaqcloud.com/cart?fid=6&gid=63&pid=114" class="btn btn-primary mt-4">立即选购</a>
+                                <a href="https://home.wawcloud.com/cart?fid=6&gid=63&pid=114" class="btn btn-primary mt-4">立即选购</a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -371,7 +371,7 @@
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">可选</span> Linux系统</li>
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">香港优化CN2</span> 线路</li>
                                 </ul>
-                                <a href="https://control.qaqcloud.com/cart?fid=17&gid=62&pid=108" class="btn btn-primary mt-4">现在试试</a>
+                                <a href="https://home.wawcloud.com/cart?fid=17&gid=62&pid=108" class="btn btn-primary mt-4">现在试试</a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -397,7 +397,7 @@
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">1个</span> 端口</li>
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">中国优化BGP</span> 线路</li>
                                 </ul>
-                                <a href="https://control.qaqcloud.com/cart?fid=13&gid=52&pid=101" class="btn btn-primary mt-4">现在开始</a>
+                                <a href="https://home.wawcloud.com/cart?fid=13&gid=52&pid=101" class="btn btn-primary mt-4">现在开始</a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -405,7 +405,7 @@
                     <div class="col-12 mt-4 pt-2 text-center">
                         <div class="alert alert-light alert-pills mb-0" role="alert">
                             <span class="badge badge-pill badge-primary mr-1">价格</span>
-                            <span class="content"> <a href="https://control.qaqcloud.com/cart" class="text-primary">查看计划详情</a> 和定价更多细节</span>
+                            <span class="content"> <a href="https://home.wawcloud.com/cart" class="text-primary">查看计划详情</a> 和定价更多细节</span>
                         </div>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -617,10 +617,10 @@
                                 <div class="col-lg-3 col-md-4 col-12 mt-4 pt-2 mt-lg-0 pt-lg-0">
                                     <h5 class="text-light footer-head font-weight-normal mb-0">我们的产品</h5>
                                     <ul class="list-unstyled footer-list mt-4">
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=6" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WVH 虚拟主机</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=17" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WVM 服务器</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=13" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WMC MC主机</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=15" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WDN CDN加速</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=6" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WVH 虚拟主机</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=17" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WVM 服务器</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=13" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WMC MC主机</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=15" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WDN CDN加速</a></li>
                                     </ul>
                                 </div>
                                 
