@@ -3,13 +3,13 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>QAQ Cloud -生活在异次元的虚拟主机商家</title>
+        <title>WaW Cloud -生活在异次元的虚拟主机商家</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="QAQ Cloud -生活在异次元的虚拟主机商家" />
-        <meta name="keywords" content="QAQ Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
+        <meta name="description" content="WaW Cloud -生活在异次元的虚拟主机商家" />
+        <meta name="keywords" content="WaW Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
         <meta content="Shreethemes" name="author" />
         <!-- favicon -->
-        <link rel="shortcut icon" href="https://m1.miaomc.cn/uploads/20220110_caba3875e45e2.png">
+        <link rel="shortcut icon" href="https://qaqcloud.static.shh.miaofile.com/images/wawcloud_icon.svg">
         <!-- Bootstrap -->
         <link href="https://qaqcloud.static.shh.miaofile.com/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <!-- Magnific Popup -->
@@ -23,6 +23,7 @@
         <!-- Css -->
         <link href="https://qaqcloud.static.shh.miaofile.com/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
         <link href="https://qaqcloud.static.shh.miaofile.com/css/colors/default.css" rel="stylesheet" id="color-opt">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/css/mdui.min.css" integrity="sha384-cLRrMq39HOZdvE0j6yBojO4+1PrHfB7a9l5qLcmRm/fiWXYY+CndJPmyu5FV/9Tw" crossorigin="anonymous"/>
     </head>
 
     <body>

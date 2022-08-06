@@ -9,23 +9,22 @@
         <meta name="keywords" content="WaW Cloud, VPS, 圆云云计算, 虚拟主机, 我的世界面板服" />
         <meta content="Shreethemes" name="author" />
         <!-- favicon -->
-        <link rel="shortcut icon" href="https://m1.miaomc.cn/uploads/20220110_caba3875e45e2.png">
+        <link rel="shortcut icon" href="https://qaqcloud.static.shh.miaofile.com/images/wawcloud_icon.svg">
         <!-- Bootstrap -->
-        <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="https://qaqcloud.static.shh.miaofile.com/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <!-- Magnific Popup -->
-        <link href="/assets/css/magnific-popup.css" rel="stylesheet" type="text/css" />
+        <link href="https://qaqcloud.static.shh.miaofile.com/css/magnific-popup.css" rel="stylesheet" type="text/css" />
         <!-- Slider -->               
-        <link rel="stylesheet" href="/assets/css/owl.carousel.min.css"/> 
-        <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css"/> 
+        <link rel="stylesheet" href="https://qaqcloud.static.shh.miaofile.com/css/owl.carousel.min.css"/> 
+        <link rel="stylesheet" href="https://qaqcloud.static.shh.miaofile.com/css/owl.theme.default.min.css"/> 
         <!-- Icons -->
-        <link href="/assets/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+        <link href="https://qaqcloud.static.shh.miaofile.com/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="https://unicons.iconscout.com/release/v2.1.6/css/unicons.css">
         <!-- Css -->
-        <link href="/assets/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
-        <link href="/assets/css/colors/default.css" rel="stylesheet" id="color-opt">
+        <link href="https://qaqcloud.static.shh.miaofile.com/css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
+        <link href="https://qaqcloud.static.shh.miaofile.com/css/colors/default.css" rel="stylesheet" id="color-opt">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdui@1.0.1/dist/css/mdui.min.css" integrity="sha384-cLRrMq39HOZdvE0j6yBojO4+1PrHfB7a9l5qLcmRm/fiWXYY+CndJPmyu5FV/9Tw" crossorigin="anonymous"/>
     </head>
-
     <body>
         
         <!-- Navbar STart -->
