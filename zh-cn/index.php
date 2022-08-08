@@ -330,7 +330,7 @@
                             <div class="card-body p-4">
                                 <div class="d-flex mb-3">
                                     <span class="h6 text-muted mb-0 mt-2">￥</span>
-                                    <span class="price text-primary h1 mb-0">3</span>
+                                    <span class="price text-primary h1 mb-0">1</span>
                                     <span class="h6 text-muted align-self-end mb-1">/月</span>
                                 </div>                                                    
                                 <ul class="feature-list list-unstyled mb-0">
@@ -342,7 +342,7 @@
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">拥有</span> PHP插件</li>
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">美国国际CN2</span> 线路</li>
                                 </ul>
-                                <a href="https://home.wawcloud.com/cart?fid=6&gid=63&pid=114" class="btn btn-primary mt-4">立即选购</a>
+                                <a href="https://home.wawcloud.com/cart" class="btn btn-primary mt-4">立即选购</a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -359,11 +359,11 @@
                             <div class="card-body p-4">
                                 <div class="d-flex mb-3">
                                     <span class="h6 text-muted mb-0 mt-2">￥</span>
-                                    <span class="price text-primary h1 mb-0">16</span>
+                                    <span class="price text-primary h1 mb-0">25</span>
                                     <span class="h6 text-muted align-self-end mb-1">/月</span>
                                 </div>                                                      
                                 <ul class="feature-list list-unstyled mb-0">
-                                    <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">1</span> CPU核心</li>
+                                    <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">2</span> CPU核心</li>
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">1G</span> 运行内存</li>
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">不限制流量</li>
                                     <li class="text-muted"><i class="mdi mdi-arrow-right text-primary mr-2"></i><span class="font-weight-bold">2Mbps</span> 带宽</li>
@@ -385,7 +385,7 @@
                             <div class="card-body p-4">
                                 <div class="d-flex mb-3">
                                     <span class="h6 text-muted mb-0 mt-2">￥</span>
-                                    <span class="price text-primary h1 mb-0">8</span>
+                                    <span class="price text-primary h1 mb-0">15</span>
                                     <span class="h6 text-muted align-self-end mb-1">/月</span>
                                 </div>                                                       
                                 <ul class="feature-list list-unstyled mb-0">
@@ -599,7 +599,7 @@
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
-
+            <!--Footer -->
             <div class="container mt-5">
                 <div class="footer-bar">
                     <div class="row mt-5">

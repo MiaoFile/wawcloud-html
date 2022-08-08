@@ -33,7 +33,7 @@
             <div class="container">
                 <!-- Logo container-->
                 <div>
-                    <a class="logo" href="index.html">
+                    <a class="logo" href="/">
                         <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b4039df.png" class="l-dark" height="16" alt="">
                         <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b403ad3.png" class="l-light" height="16" alt="">
                     </a>

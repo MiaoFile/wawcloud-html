@@ -33,15 +33,15 @@
             <div class="container">
                 <!-- Logo container-->
                 <div>
-                    <a class="logo" href="index.html">
-                        <img src="https://m1.miaomc.cn/uploads/20220109_609ed56bff769.svg" class="l-dark" height="16" alt="">
-                        <img src="https://m1.miaomc.cn/uploads/20220109_ab1d7277dc33b.svg" class="l-light" height="16" alt="">
+                    <a class="logo" href="/">
+                        <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b4039df.png" class="l-dark" height="16" alt="">
+                        <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b403ad3.png" class="l-light" height="16" alt="">
                     </a>
                 </div>     
 
                 <div class="buy-button">
-                    <a href="https://control.qaqcloud.com/login" class="text-dark h6 mr-3 login" >登陆</a>
-                    <a href="https://control.qaqcloud.com/register" target="_blank" class="btn btn-primary">立刻注册</a>
+                    <a href="https://home.wawcloud.com/login" class="text-dark h6 mr-3 login" >登陆</a>
+                    <a href="https://home.wawcloud.com/register" target="_blank" class="btn btn-primary">立刻注册</a>
                 </div><!--end login button-->
                 <!-- End Logo container-->
                 <div class="menu-extras">
@@ -67,13 +67,13 @@
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >WVM服务器</a>
+                            <a href="https://home.wawcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >WVM服务器</a>
                         </ul>
                         </li>
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >WVH虚拟主机</a>
+                            <a href="https://home.wawcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >WVH虚拟主机</a>
                         </ul>
                         </li>
 
@@ -108,7 +108,7 @@
                             <p class="text-white-50 para-desc mx-auto mb-0">在这里，你可以进行F&Q</p>
                             <nav aria-label="breadcrumb" class="d-inline-block mt-4">
                                 <ul class="breadcrumb mb-0">
-                                    <li class="breadcrumb-item"><a href="index.html">QAQ Cloud</a></li>
+                                    <li class="breadcrumb-item"><a href="index.html">WaW Cloud</a></li>
                                     <li class="btn btn-primary" aria-current="page">F&Q</li>
                                 </ul>
                             </nav>
@@ -149,12 +149,12 @@
                                 <div class="card border-0 rounded mb-2">
                                     <a data-toggle="collapse" href="#collapsefive" class="faq position-relative" aria-expanded="true" aria-controls="collapsefive">
                                         <div class="card-header border-0 bg-light p-3 pr-5" id="headingfive">
-                                            <h6 class="title mb-0">咱们的 <span class="text-primary">QAQ Cloud</span> 是怎么工作的 </h6>
+                                            <h6 class="title mb-0">咱们的 <span class="text-primary">WaW Cloud</span> 是怎么工作的 </h6>
                                         </div>
                                     </a>
                                     <div id="collapsefive" class="collapse show" aria-labelledby="headingfive" data-parent="#accordionExampletwo">
                                         <div class="card-body px-2 py-4">
-                                            <p class="text-muted mb-0 faq-ans">QAQ Cloud基于KVM,Docker等技术来进行虚拟化服务,并且团队对于Docker有着非常熟悉使用技术</p>
+                                            <p class="text-muted mb-0 faq-ans">WaW Cloud基于KVM,Docker等技术来进行虚拟化服务,并且团队对于Docker有着非常熟悉使用技术</p>
                                         </div>
                                     </div>
                                 </div>
@@ -180,7 +180,7 @@
                                     </a>
                                     <div id="collapseseven" class="collapse" aria-labelledby="headingseven" data-parent="#accordionExampletwo">
                                         <div class="card-body px-2 py-4">
-                                            <p class="text-muted mb-0 faq-ans">购买不限制流量的服务器或者虚拟主机套餐,并且不违反QAQ Cloud的相关用户协议和隐私政策即可享受不限流量的体验</p>
+                                            <p class="text-muted mb-0 faq-ans">购买不限制流量的服务器或者虚拟主机套餐,并且不违反WaW Cloud的相关用户协议和隐私政策即可享受不限流量的体验</p>
                                         </div>
                                     </div>
                                 </div>
@@ -188,7 +188,7 @@
                                 <div class="card border-0 rounded mb-2">
                                     <a data-toggle="collapse" href="#collapseeight" class="faq position-relative collapsed" aria-expanded="false" aria-controls="collapseeight">
                                         <div class="card-header border-0 bg-light p-3 pr-5" id="headingeight">
-                                            <h6 class="title mb-0"> 我的<span class="text-primary">QAQ Cloud</span> 账户数据是否安全</h6>
+                                            <h6 class="title mb-0"> 我的<span class="text-primary">WaW Cloud</span> 账户数据是否安全</h6>
                                         </div>
                                     </a>
                                     <div id="collapseeight" class="collapse" aria-labelledby="headingeight" data-parent="#accordionExampletwo">
@@ -290,10 +290,10 @@
                                 <div class="col-lg-3 col-md-4 col-12 mt-4 pt-2 mt-lg-0 pt-lg-0">
                                     <h5 class="text-light footer-head font-weight-normal mb-0">我们的产品</h5>
                                     <ul class="list-unstyled footer-list mt-4">
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=6" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QVH 虚拟主机</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=17" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QVM 服务器</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=13" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QMC MC主机</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=15" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QDN CDN加速</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=6" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QVH 虚拟主机</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=17" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QVM 服务器</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=13" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QMC MC主机</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=15" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QDN CDN加速</a></li>
                                     </ul>
                                 </div>
                                 
@@ -335,16 +335,16 @@
                 <div class="row text-center">
                     <div class="col-sm-6 col-md-7">
                         <div class="text-sm-left">
-                            <p class="mb-0 text-foot">© 2021-2022 QAQ Cloud. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://www.roundcloud.cn/" target="_blank" class="text-reset">安徽圆云科技有限公司</a>.</p>
+                            <p class="mb-0 text-foot">© 2021-2022 WaW Cloud. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://www.roundcloud.cn/" target="_blank" class="text-reset">安徽圆云科技有限公司</a>.</p>
                         </div>
                     </div><!--end col-->
 
                     <div class="col-sm-6 col-md-5 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <ul class="list-unstyled terms-service text-sm-right mb-0">
-                            <li class="list-inline-item mb-0"><a href="privacy.html" class="text-foot mr-2">隐私协议</a></li>
-                            <li class="list-inline-item mb-0"><a href="terms.html" class="text-foot mr-2">服务条款</a></li>
-                            <li class="list-inline-item mb-0"><a href="faqs.html" class="text-foot mr-2">问&答</a></li>
-                            <li class="list-inline-item mb-0"><a href="contact.html" class="text-foot">联系我们</a></li>
+                            <li class="list-inline-item mb-0"><a href="/privacy" class="text-foot mr-2">隐私协议</a></li>
+                            <li class="list-inline-item mb-0"><a href="/terms" class="text-foot mr-2">服务条款</a></li>
+                            <li class="list-inline-item mb-0"><a href="/faqs" class="text-foot mr-2">问&答</a></li>
+                            <li class="list-inline-item mb-0"><a href="/contact" class="text-foot">联系我们</a></li>
                         </ul>
                     </div><!--end col-->
                 </div><!--end row-->
@@ -425,20 +425,20 @@
         <!-- Back to top -->
         
         <!-- javascript -->
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/jquery.min.js"></script>
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/bootstrap.bundle.min.js"></script>
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/jquery.easing.min.js"></script>
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/scrollspy.min.js"></script>
+        <script src="https://WaWcloud.static.shh.miaofile.com/js/jquery.min.js"></script>
+        <script src="https://WaWcloud.static.shh.miaofile.com/js/bootstrap.bundle.min.js"></script>
+        <script src="https://WaWcloud.static.shh.miaofile.com/js/jquery.easing.min.js"></script>
+        <script src="https://WaWcloud.static.shh.miaofile.com/js/scrollspy.min.js"></script>
         <!-- Magnific Popup -->
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/jquery.magnific-popup.min.js"></script>
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/magnific.init.js"></script>
+        <script src="https://WaWcloud.static.shh.miaofile.com/js/jquery.magnific-popup.min.js"></script>
+        <script src="https://WaWcloud.static.shh.miaofile.com/js/magnific.init.js"></script>
         <!-- SLIDER -->
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/owl.carousel.min.js"></script>
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/owl.init.js"></script>
+        <script src="https://WaWcloud.static.shh.miaofile.com/js/owl.carousel.min.js"></script>
+        <script src="https://WaWcloud.static.shh.miaofile.com/js/owl.init.js"></script>
         <!-- Icons -->
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/feather.min.js"></script>
+        <script src="https://WaWcloud.static.shh.miaofile.com/js/feather.min.js"></script>
         <!-- Main Js -->
-        <script src="https://qaqcloud.static.shh.miaofile.com/js/app.js"></script>
+        <script src="https://WaWcloud.static.shh.miaofile.com/js/app.js"></script>
         
     </body>
 
