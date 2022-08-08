@@ -28,67 +28,76 @@
 
     <body>
         
-<!-- Navbar STart -->
-<header id="topnav" class="defaultscroll sticky">
-    <div class="container">
-        <!-- Logo container-->
-        <div>
-            <a class="logo" href="index.html">
-                <img src="https://img.acgfun.cc/2022/01/09/012c9e8d2f296.svg" class="l-dark" height="16" alt="">
-                <img src="https://m1.miaomc.cn/uploads/20220109_ab1d7277dc33b.svg" class="l-light" height="16" alt="">
-            </a>
-        </div>     
+        <!-- Navbar STart -->
+        <header id="topnav" class="defaultscroll sticky">
+            <div class="container">
+                <!-- Logo container-->
+                <div>
+                    <a class="logo" href="index.html">
+                        <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b4039df.png" class="l-dark" height="16" alt="">
+                        <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b403ad3.png" class="l-light" height="16" alt="">
+                    </a>
+                </div>     
 
-        <div class="buy-button">
-            <a href="https://control.qaqcloud.com/login" class="text-dark h6 mr-3 login" >登陆</a>
-            <a href="https://control.qaqcloud.com/register" target="_blank" class="btn btn-primary">立刻注册</a>
-        </div><!--end login button-->
-        <!-- End Logo container-->
-        <div class="menu-extras">
-            <div class="menu-item">
-                <!-- Mobile menu toggle-->
-                <a class="navbar-toggle">
-                    <div class="lines">
-                        <span></span>
-                        <span></span>
-                        <span></span>
+                <div class="buy-button">
+                    <a href="https://home.wawcloud.com/login" class="text-dark h6 mr-3 login" >登陆</a>
+                    <a href="https://home.wawcloud.com/register" target="_blank" class="btn btn-primary">立刻注册</a>
+                </div><!--end login button-->
+                <!-- End Logo container-->
+                <div class="menu-extras">
+                    <div class="menu-item">
+                        <!-- Mobile menu toggle-->
+                        <a class="navbar-toggle">
+                            <div class="lines">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </a>
+                        <!-- End mobile menu toggle-->  
                     </div>
-                </a>
-                <!-- End mobile menu toggle-->
-            </div>
-        </div>
+                </div>
+        
+                <div id="navigation">
+                    <!-- Navigation Menu-->
+                    <ul class="navigation-menu nav-light">
+                        <li class="buy-button">
+                            <a href="/zh-cn" class="text-dark h6 mr-3 login" >主页</a>
+                        </li>
+                        
+                        <ul class="navigation-menu nav-light">
+                        <li class="buy-button">
+                            <a href="https://home.wawcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >WVM服务器</a>
+                        </ul>
+                        </li>
+                        
+                        <ul class="navigation-menu nav-light">
+                        <li class="buy-button">
+                            <a href="https://home.wawcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >WVH虚拟主机</a>
+                        </ul>
+                        </li>
 
-        <div id="navigation">
-            <!-- Navigation Menu-->   
-            <ul class="navigation-menu nav-light">
-                <li class="buy-button">
-                    <a href="/" class="text-dark h6 mr-3 login" >主页</a>
-                </li>
-                
-                <ul class="navigation-menu nav-light">
-                <li class="buy-button">
-                    <a href="https://control.qaqcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >QVM服务器</a>
-                </ul>
-                </li>
-                
-                <ul class="navigation-menu nav-light">
-                <li class="buy-button">
-                    <a href="https://control.qaqcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >虚拟主机</a>
-                </ul>
-                </li>
-
-                <ul class="navigation-menu nav-light">
-                <li class="buy-button">
-                    <a href="/contact.html" class="text-dark h6 mr-3 login" >联系我们</a>
-                </li>
-            </ul><!--end navigation menu-->
-        </div><!--end navigation-->
-    </div><!--end container-->
-</header><!--end header-->
-<!-- Navbar End -->
+                        <ul class="navigation-menu nav-light">
+                        <li class="buy-button">
+                            <a href="/zh-cn/contact" class="text-dark h6 mr-3 login" >联系我们</a>
+                        </li>
+                        </ul>
+                        <ul class="navigation-menu">
+                            <li class="buy-button">
+                            <a class="mdui-ripple dropdown-toggle h6 mr-3 login" data-toggle="dropdown">Language / 语言</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/zh-cn" class="btn1 btn1-primary">简体中文</a></li>
+                                <li><a href="/eu-us" class="btn2 btn2-primary">English</a></li>
+                        </li>
+                        </ul>
+                    </ul><!--end navigation menu-->
+                </div><!--end navigation-->
+            </div><!--end container-->
+        </header><!--end header-->
+        <!-- Navbar End -->
 
         <!-- Home Start -->
-        <section class="bg-half-260 d-table w-100 bg-primary" style="background: url('https://www.dmoe.cc/random.php') top center;" id="home">
+        <section class="bg-half-260 d-table w-100 bg-primary" style="background: url('https://api.miaomc.cn/image/get?1') top center;" id="home">
             <div class="bg-overlay"></div>
             <div class="container">
                 <div class="row mt-5 justify-content-center">

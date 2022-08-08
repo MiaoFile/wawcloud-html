@@ -98,7 +98,7 @@
 
 
         <!-- Home Start -->
-        <section class="bg-half-260 d-table w-100 bg-primary" style="background: url('https://www.dmoe.cc/random.php') top center;" id="home">
+        <section class="bg-half-260 d-table w-100 bg-primary" style="background: url('https://api.miaomc.cn/image/get?3') top center;" id="home">
             <div class="bg-overlay"></div>
             <div class="container">
                 <div class="row mt-5 justify-content-center">

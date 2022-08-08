@@ -34,14 +34,14 @@
                 <!-- Logo container-->
                 <div>
                     <a class="logo" href="index.html">
-                        <img src="https://m1.miaomc.cn/uploads/20220109_609ed56bff769.svg" class="l-dark" height="16" alt="">
-                        <img src="https://m1.miaomc.cn/uploads/20220109_ab1d7277dc33b.svg" class="l-light" height="16" alt="">
+                        <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b4039df.png" class="l-dark" height="16" alt="">
+                        <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b403ad3.png" class="l-light" height="16" alt="">
                     </a>
                 </div>     
 
                 <div class="buy-button">
-                    <a href="https://control.qaqcloud.com/login" class="text-dark h6 mr-3 login" >登陆</a>
-                    <a href="https://control.qaqcloud.com/register" target="_blank" class="btn btn-primary">立刻注册</a>
+                    <a href="https://home.wawcloud.com/login" class="text-dark h6 mr-3 login" >登陆</a>
+                    <a href="https://home.wawcloud.com/register" target="_blank" class="btn btn-primary">立刻注册</a>
                 </div><!--end login button-->
                 <!-- End Logo container-->
                 <div class="menu-extras">
@@ -67,13 +67,13 @@
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >WVM服务器</a>
+                            <a href="https://home.wawcloud.com/cart?fid=17" class="text-dark h6 mr-3 login" >WVM服务器</a>
                         </ul>
                         </li>
                         
                         <ul class="navigation-menu nav-light">
                         <li class="buy-button">
-                            <a href="https://control.qaqcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >WVH虚拟主机</a>
+                            <a href="https://home.wawcloud.com/cart?fid=6" class="text-dark h6 mr-3 login" >WVH虚拟主机</a>
                         </ul>
                         </li>
 
@@ -97,7 +97,7 @@
         <!-- Navbar End -->
 
         <!-- Home Start -->
-        <section class="bg-half-260 d-table w-100 bg-primary" style="background: url('https://www.dmoe.cc/random.php') top center;" id="home">
+        <section class="bg-half-260 d-table w-100 bg-primary" style="background: url('https://api.miaomc.cn/image/get?4') top center;" id="home">
             <div class="bg-overlay"></div>
             <div class="container">
                 <div class="row mt-5 justify-content-center">
