@@ -439,10 +439,10 @@
 
                     <div class="col-sm-6 col-md-5 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <ul class="list-unstyled terms-service text-sm-right mb-0">
-                            <li class="list-inline-item mb-0"><a href="privacy.html" class="text-foot mr-2">隐私协议</a></li>
-                            <li class="list-inline-item mb-0"><a href="terms.html" class="text-foot mr-2">服务条款</a></li>
-                            <li class="list-inline-item mb-0"><a href="faqs.html" class="text-foot mr-2">问&答</a></li>
-                            <li class="list-inline-item mb-0"><a href="contact.html" class="text-foot">联系我们</a></li>
+                            <li class="list-inline-item mb-0"><a href="/zh-cn/privacy" class="text-foot mr-2">隐私协议</a></li>
+                            <li class="list-inline-item mb-0"><a href="/zh-cn/terms" class="text-foot mr-2">服务条款</a></li>
+                            <li class="list-inline-item mb-0"><a href="/zh-cn/faqs" class="text-foot mr-2">问&答</a></li>
+                            <li class="list-inline-item mb-0"><a href="/zh-cn/contact" class="text-foot">联系我们</a></li>
                         </ul>
                     </div><!--end col-->
                 </div><!--end row-->
