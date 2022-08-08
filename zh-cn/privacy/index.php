@@ -370,7 +370,7 @@
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
-
+            <!--Footer -->
             <div class="container mt-5">
                 <div class="footer-bar">
                     <div class="row mt-5">
@@ -388,20 +388,20 @@
                                 <div class="col-lg-3 col-md-4 col-12 mt-4 pt-2 mt-lg-0 pt-lg-0">
                                     <h5 class="text-light footer-head font-weight-normal mb-0">我们的产品</h5>
                                     <ul class="list-unstyled footer-list mt-4">
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=6" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QVH 虚拟主机</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=17" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QVM 服务器</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=13" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QMC 我的世界主机</a></li>
-                                        <li><a href="https://control.qaqcloud.com/cart?fid=15" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QDN CDN加速</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=6" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WVH 虚拟主机</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=17" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WVM 服务器</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=13" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WMC MC主机</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=15" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WDN CDN加速</a></li>
                                     </ul>
                                 </div>
                                 
                                 <div class="col-lg-3 col-md-4 col-12 mt-4 pt-2 mt-lg-0 pt-lg-0">
                                     <h5 class="text-light footer-head font-weight-normal mb-0">关于我们</h5>
                                     <ul class="list-unstyled footer-list mt-4">
-                                        <li><a href="javascript:void(0)" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>关于我们</a></li>
-                                        <li><a href="/contact.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>联系我们</a></li>
-                                        <li><a href="javascript:void(0)" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>服务协议</a></li>
-                                        <li><a href="javascript:void(0)" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>隐私协议</a></li>
+                                        <li><a href="privacy.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>隐私协议</a></li>
+                                        <li><a href="terms.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>服务条款</a></li>
+                                        <li><a href="faqs.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>问&答</a></li>
+                                        <li><a href="contact.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>联系我们</a></li>
                                     </ul>
                                 </div>
                                 
@@ -433,7 +433,7 @@
                 <div class="row text-center">
                     <div class="col-sm-6 col-md-7">
                         <div class="text-sm-left">
-                            <p class="mb-0 text-foot">© 2021-2022 QAQ Cloud. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://www.roundcloud.cn/" target="_blank" class="text-reset">安徽圆云科技有限公司</a>.</p>
+                            <p class="mb-0 text-foot">© 2021-2022 WaW Cloud. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://www.tcbwork.com/" target="_blank" class="text-reset">TCB Work's Cloud 运营部</a>.</p>
                         </div>
                     </div><!--end col-->
 
@@ -449,6 +449,7 @@
             </div><!--end container-->
         </footer><!--end footer-->
         <!-- Footer End -->
+
 
         <!-- Login Modal Content Start -->
         <div class="modal fade" id="LoginForm" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">

@@ -272,13 +272,13 @@
                     </div><!--end col-->
                 </div><!--end row-->
             </div><!--end container-->
-
+            <!--Footer -->
             <div class="container mt-5">
                 <div class="footer-bar">
                     <div class="row mt-5">
                         <div class="col-lg-4 col-md-12">
                             <a class="logo-footer h4 mouse-down text-light" href="#home">
-                                <img src="https://m1.miaomc.cn/uploads/20220109_ab1d7277dc33b.svg" height="16" alt="">
+                                <img src="https://cos.cdn.image.tcbmc.cc/uploads/2022/08/03/62ea13b403ad3.png" height="16" alt="">
                             </a>
                             <p class="mt-4 text-foot">在我们完全冗余,并且稳定的 <br> 高性能云平台上部署您的服务基础架构，<br>并从其高可靠性、安全性和企业功能集中受益。
                             </p>
@@ -290,10 +290,10 @@
                                 <div class="col-lg-3 col-md-4 col-12 mt-4 pt-2 mt-lg-0 pt-lg-0">
                                     <h5 class="text-light footer-head font-weight-normal mb-0">我们的产品</h5>
                                     <ul class="list-unstyled footer-list mt-4">
-                                        <li><a href="https://home.wawcloud.com/cart?fid=6" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QVH 虚拟主机</a></li>
-                                        <li><a href="https://home.wawcloud.com/cart?fid=17" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QVM 服务器</a></li>
-                                        <li><a href="https://home.wawcloud.com/cart?fid=13" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QMC MC主机</a></li>
-                                        <li><a href="https://home.wawcloud.com/cart?fid=15" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>QDN CDN加速</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=6" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WVH 虚拟主机</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=17" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WVM 服务器</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=13" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WMC MC主机</a></li>
+                                        <li><a href="https://home.wawcloud.com/cart?fid=15" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i>WDN CDN加速</a></li>
                                     </ul>
                                 </div>
                                 
@@ -335,16 +335,16 @@
                 <div class="row text-center">
                     <div class="col-sm-6 col-md-7">
                         <div class="text-sm-left">
-                            <p class="mb-0 text-foot">© 2021-2022 WaW Cloud. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://www.roundcloud.cn/" target="_blank" class="text-reset">安徽圆云科技有限公司</a>.</p>
+                            <p class="mb-0 text-foot">© 2021-2022 WaW Cloud. Design with <i class="mdi mdi-heart text-danger"></i> by <a href="https://www.tcbwork.com/" target="_blank" class="text-reset">TCB Work's Cloud 运营部</a>.</p>
                         </div>
                     </div><!--end col-->
 
                     <div class="col-sm-6 col-md-5 mt-4 mt-sm-0 pt-2 pt-sm-0">
                         <ul class="list-unstyled terms-service text-sm-right mb-0">
-                            <li class="list-inline-item mb-0"><a href="/privacy" class="text-foot mr-2">隐私协议</a></li>
-                            <li class="list-inline-item mb-0"><a href="/terms" class="text-foot mr-2">服务条款</a></li>
-                            <li class="list-inline-item mb-0"><a href="/faqs" class="text-foot mr-2">问&答</a></li>
-                            <li class="list-inline-item mb-0"><a href="/contact" class="text-foot">联系我们</a></li>
+                            <li class="list-inline-item mb-0"><a href="privacy.html" class="text-foot mr-2">隐私协议</a></li>
+                            <li class="list-inline-item mb-0"><a href="terms.html" class="text-foot mr-2">服务条款</a></li>
+                            <li class="list-inline-item mb-0"><a href="faqs.html" class="text-foot mr-2">问&答</a></li>
+                            <li class="list-inline-item mb-0"><a href="contact.html" class="text-foot">联系我们</a></li>
                         </ul>
                     </div><!--end col-->
                 </div><!--end row-->
